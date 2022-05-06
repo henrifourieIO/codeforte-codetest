@@ -6,8 +6,7 @@ const StyledCartButton = styled.div`
     height: 50px;
     border-radius: 50%;
     cursor: pointer;
-    margin-left: auto;
-    margin-right: 20px;
+    margin-left: 20px;
     display: flex;
     align-items: center;
     justify-content: center;

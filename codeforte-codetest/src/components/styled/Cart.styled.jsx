@@ -7,7 +7,7 @@ display: ${({open}) => open ? 'block' : 'none'};
     padding: 1em;
     position: absolute;
     top: 80px;
-    right: 20px;
+    left: 20px;
     background-color: #fff;
     width: 500px;
 
